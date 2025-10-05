@@ -1,6 +1,6 @@
 # Service Booking Agent
 
-AI-powered service booking agent built with LangGraph.
+AI-powered service booking agent built with LangGraph. This Agent converts user's query into a booking proposals by filtering nearby location, sorted by price, and provides available 2-3 slots for users to pick along with an option to set remainder.  
 
 #### live demo: https://booking-agent-1077315982137.asia-south1.run.app
 
