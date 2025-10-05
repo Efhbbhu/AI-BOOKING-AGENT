@@ -1,0 +1,51 @@
+# Python dependencies for the Service Booking Agent
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Firebase SDK
+firebase-admin==6.4.0
+
+# LangGraph for workflow orchestration
+langgraph==0.2.27
+langchain==0.3.0
+langchain-core==0.3.0
+langchain-community==0.3.0
+
+# HTTP requests
+requests==2.31.0
+
+# Data processing
+python-dotenv==1.0.0
+
+# Date/time utilities
+python-dateutil==2.8.2
+
+# JSON utilities (if needed)
+ujson==5.8.0
+
+# Logging
+structlog==23.2.0
+
+# Type hints support
+typing-extensions==4.12.2
+
+# Math utilities
+numpy==1.24.0
+
+# Development dependencies
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.9.0
+flake8==6.1.0
+
+# Optional: For enhanced geocoding (if needed)
+geopy==2.4.0
+
+# Optional: For more advanced date parsing
+dateparser==1.1.8
+
+# Production server
+waitress==3.0.0

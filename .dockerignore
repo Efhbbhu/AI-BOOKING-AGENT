@@ -1,0 +1,22 @@
+# Ignore Python cache and virtualenvs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+.venv/
+venv/
+
+# Ignore Node build artifacts and dependencies
+frontend/node_modules/
+frontend/build/
+node_modules/
+
+# Ignore environment and secrets
+.env
+.env.*
+# Misc
+.git
+.gitignore
+Dockerfile~
+*.log
